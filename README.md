@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **tech related things, I will try my level best to help.**
 
-- 📫 How to reach me **mishrasaurabhvns123@gmail.com**
-
 - ⚡ Fun fact **I'm a night owl 🦉! My creativity and productivity seem to peak when the world is asleep.**
 
 <h3 align="left">Connect with me:</h3>
