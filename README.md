@@ -18,7 +18,7 @@
 </p>
 
 <a href="mailto:mishrasaurabhvns123@gmail.com">
-  <img src="https://github.com/saurabhm-1998/saurabhm-1998/blob/master/icons8-gmail-48.png" alt="Gmail" width="20px">
+  <img src="https://github.com/saurabhm-1998/saurabhm-1998/blob/master/icons8-gmail-48.png" alt="Gmail" width="40px">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
