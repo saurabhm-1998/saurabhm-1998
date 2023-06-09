@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Mishra</h1>
 <h3 align="center">I'm a passionate Software Engineer and self-learning technology Enthusiast, having good knowledge of Data Structure and Object Oriented Programming concepts, with a keen interest in Backend Development using Java. I'm eager to learn and adapt to new technologies to stay updated with the ever-changing market trends. Currently honing my skills in Backend development using Spring Boot.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> <br>
 
 <br>
 
