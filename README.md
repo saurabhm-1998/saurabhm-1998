@@ -1,4 +1,4 @@
-![logo](https://github.com/saurabhm-1998/saurabhm-1998/blob/master/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+
 <h1 align="center">Hi 👋, I'm Saurabh Mishra</h1>
 <h3 align="center">I'm a passionate Software Engineer and self-learning technology Enthusiast, having good knowledge of Data Structure and Object Oriented Programming concepts, with a keen interest in Backend Development using Java. I'm eager to learn and adapt to new technologies to stay updated with the ever-changing market trends. Currently honing my skills in Backend development using Spring Boot.</h3>
 
